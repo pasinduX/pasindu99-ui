@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He\His
 - ⚡ Fun fact: ... nothing
 
-<img src="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1/fullscreen" width=1400 height=300/>
+<img src="https://ericaofanderson.tumblr.com/post/647369066595713024/wormhole-you-can-get-this-gif-as-a-phone" width=1400 height=300/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu99-ui)](https://github.com/anuraghazra/github-readme-stats)
 
