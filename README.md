@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He\His
 - ⚡ Fun fact: ... nothing
 
-<img src="![image](https://user-images.githubusercontent.com/79826042/164888048-48bae858-16b6-4bbb-aabd-3064e7e03647.png)" width=1400 height=300/>
+<img src="https://64.media.tumblr.com/e3776190fbb8b64982a41b710905ea4a/e6ec00681adc86c5-46/s500x750/483a2b10b5c177aefa437b67c936c01760c8fcf1.gifv" width=1400 height=300/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu99-ui)](https://github.com/anuraghazra/github-readme-stats)
 
