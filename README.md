@@ -56,6 +56,20 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
 </div>
 
+
+  
+</td><td valign="top" width="33%">
+
+
+
+### Tools  
+<div align="center">  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+</div>
+
+</td></tr></table> 
+
   <br/>  
 
 
@@ -84,18 +98,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-  
-</td><td valign="top" width="33%">
-
-
-
-### Tools  
-<div align="center">  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-</div>
-
-</td></tr></table> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu99-ui)](https://github.com/anuraghazra/github-readme-stats)
 
