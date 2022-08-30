@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He\His
 - ⚡ Fun fact: ... nothing
 
-<img src="https://64.media.tumblr.com/e3776190fbb8b64982a41b710905ea4a/e6ec00681adc86c5-46/s500x750/483a2b10b5c177aefa437b67c936c01760c8fcf1.gifv" width=1400 height=300/>
+<img src="https://64.media.tumblr.com/98aa4229fc0f17ef11a87e855c2de9db/99ca392005718c5e-00/s500x750/dae4eb54df74428d06cb140517ab90b82e87b71e.gifv" width=1400 height=300/>
 
 
 
