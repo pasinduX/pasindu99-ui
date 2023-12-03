@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinuda&" alt="dinuda" background/>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pasinuXd&" alt="pasinduX" background/>
 </div>
 <br>
 
