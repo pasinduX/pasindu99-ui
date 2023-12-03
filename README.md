@@ -99,4 +99,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduX)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinuda&" alt="dinuda" background/>
+</div>
+<br>
+
 [![pasindu's github stats](https://github-readme-stats.vercel.app/api?username=pasinduX&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
