@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasinduX&show_icons=true&locale=en&layout=compact" alt="pasinduX" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindux&show_icons=true&locale=en" alt="pasindux" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindux&show_icons=true&locale=en" alt="pasinduX" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindux&" alt="pasindux" /></p>
